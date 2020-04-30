@@ -4,6 +4,6 @@
 System.println('How is your day!?!');```
 ```php
 <?php
-  $ip = $_SERVER['REMOTE_ADDR']
+  $ip = $_SERVER['REMOTE_ADDR'];
   echo "<strong> YOUR IP IS: " + $ip;
 ?>```
