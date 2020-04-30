@@ -1,9 +1,3 @@
 # Hello, How are you doing
 ## This is TotalCode
-```java
-System.println('How is your day!?!');```
-```php
-<?php
-  $ip = $_SERVER['REMOTE_ADDR'];
-  echo "<strong> YOUR IP IS: " + $ip;
-?>```
+[Click Me!!!!] (https://www.reddit.com/r/thundercrosssplitatta/comments/g3g9gy/the_first/)
